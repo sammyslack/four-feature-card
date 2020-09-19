@@ -1,0 +1,106 @@
+.buddy{
+  background-color: ghostwhite;
+}
+.container{
+  padding-top: 30px;
+}
+.code0{
+  text-align: center;
+  padding-top: 20px;
+  font-family: "Poppins", sans-serif;
+  color: gray;
+  font-size: 1rem;
+  width: 500px;
+  margin-left: 420px;
+}
+.top1{
+color: #474747;
+}
+.coded{
+  height: 250px;
+  width: 350px;
+  background-color: white;
+  display: inline-block;
+  position: relative;
+  margin-left: 110px;
+  margin-top: 50px;
+  border-radius: 4px;
+}
+.coded1{
+  height: 250px;
+  width: 350px;
+  background-color: white;
+  display: inline-block;
+  position: relative;
+  margin-left: 420px;
+  margin-top: 150px;
+  border-radius: 4px
+}
+.code1{
+  height: 250px;
+  width: 350px;
+  background-color: white;
+  position: absolute;
+  margin-left: 500px;
+  border-radius: 4px;
+}
+.thor{
+  height: 250px;
+  width: 350px;
+  background-color: white;
+  position: absolute;
+  margin-top: 50px;
+  border-radius: 4px;
+}
+.rule{
+    height: 3px;
+    background-color: red;
+}
+.rule2{
+  height: 3px;
+  background-color: orange;
+}
+.rule3{
+  height: 3px;
+  background-color: cyan;
+}
+.rule4{
+  height: 3px;
+  background-color: blue;
+}
+.hr{
+  width: 3px;
+}
+.head{
+  margin: 20px 20px 0;
+}
+.subhead{
+  margin: 20px 20px 0;
+  color: gray;
+}
+.image1{
+  padding-left: 250px;
+  padding-top: 50px;
+}
+.image12{
+  padding-left: 250px;
+    padding-top: 60px;
+}
+@media (max-width: 900px) {
+  .coded{
+    position: static;
+    display: block;
+    margin-left: 500px;
+
+  }
+  .coded1{
+    position: static;
+    display: block;
+    margin-left: 500px;
+    margin-top: 588px;
+  }
+  .code1{
+    margin-top: 330px;
+  }
+
+}
